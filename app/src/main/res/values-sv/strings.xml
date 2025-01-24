@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vad ska vi laga?</string>
+    <string name="next_button">Gå till intällningar</string>
+    <string name="search_button">Sök</string>
+    <string name="new_search_button">Ny sökning</string>
+    <string name="settings_title">Gör dina val</string>
+    <string name="list_title">Receptlista</string>
+    <string name="recipe_details">Receptdetaljer</string>
+    <string name="recipe_placeholder">Receptplats</string>
+    <string name="close_app">Stäng</string>
+    <string name="ingredienser">Ingredienser</string>
+    <string name="search">Sök</string>
+    <string name="choose_holiday">Välj högtid</string>
+    <string name="choose_portions">Välj antal portioner</string>
+    <string name="choose_food_type">Välj mattyp</string>
+    <string name="choose_diet_types">Välj typ av mat</string>
+    <string name="choose_recipe_count">Välj antal recept</string>
+    <string name="lactose_free">Laktosfri</string>
+    <string name="gluten_free">Glutenfri</string>
+    <string name="vegetarian">Vegetarisk</string>
+    <string name="no_food_type_filter">Ingen specifik mattyp</string>
+    <string name="query_template">Lista endast namnen på %1$s recept som är lämpliga för %4$s vid %2$s för %3$s personer. Svara bara med receptnamn, inget annat.</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="recipe_detail_query">Hämta det kompletta receptet för %1$s för %2$d personer, inklusive alla ingredienser och steg-för-steg-instruktioner.</string>
+    <string name="error">Fel: %1$s</string>
+    <string name="no_details_available">Inga detaljer tillgängliga</string>
+    <string name="back_to_settings">Tillbaka till inställningar</string>
+
+</resources>

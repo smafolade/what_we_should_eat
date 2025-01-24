@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">¿Qué deberíamos cocinar?</string>
+    <string name="next_button">Ir a la configuración</string>
+    <string name="search_button">Buscar</string>
+    <string name="new_search_button">Nueva búsqueda</string>
+    <string name="settings_title">Haz tus elecciones</string>
+    <string name="list_title">Lista de recetas</string>
+    <string name="recipe_details">Detalles de la receta</string>
+    <string name="recipe_placeholder">Marcador de receta</string>
+    <string name="close_app">Cerrar</string>
+    <string name="ingredienser">Ingredientes</string>
+    <string name="search">Buscar</string>
+    <string name="choose_holiday">Elige una festividad</string>
+    <string name="choose_portions">Elige porciones</string>
+    <string name="choose_food_type">Elige tipo de comida</string>
+    <string name="choose_diet_types">Elige tipo de comida</string>
+    <string name="choose_recipe_count">Elige cantidad de recetas</string>
+    <string name="lactose_free">Libre de lactosa</string>
+    <string name="gluten_free">Libre de gluten</string>
+    <string name="vegetarian">Vegetariano</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="no_food_type_filter">Sin tipo de comida específico</string>
+    <string name="query_template">Enumera solo los nombres de %1$s recetas adecuadas para %4$s en %2$s para %3$s personas. Responde solo con nombres de recetas, nada más.</string>
+    <string name="recipe_detail_query">Obtén la receta completa de %1$s para %2$d personas, incluyendo todos los ingredientes y las instrucciones paso a paso.</string>
+    <string name="error">Error: %1$s</string>
+    <string name="no_details_available">No hay detalles disponibles</string>
+    <string name="back_to_settings">Volver a Configuración</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Was sollen wir kochen?</string>
+    <string name="next_button">Zu den Einstellungen</string>
+    <string name="search_button">Suchen</string>
+    <string name="new_search_button">Neue Suche</string>
+    <string name="settings_title">Treffen Sie Ihre Wahl</string>
+    <string name="list_title">Rezeptliste</string>
+    <string name="recipe_details">Rezeptdetails</string>
+    <string name="recipe_placeholder">Rezept Platzhalter</string>
+    <string name="close_app">Schließen</string>
+    <string name="ingredienser">Zutaten</string>
+    <string name="search">Suchen</string>
+    <string name="choose_holiday">Wählen Sie einen Feiertag</string>
+    <string name="choose_portions">Wählen Sie Portionen</string>
+    <string name="choose_food_type">Wählen Sie einen Lebensmittelformat</string>
+    <string name="choose_diet_types">Wählen Sie eine Art von Essen</string>
+    <string name="choose_recipe_count">Wählen Sie Rezepte</string>
+    <string name="lactose_free">Laktosefrei</string>
+    <string name="gluten_free">Glutenfrei</string>
+    <string name="vegetarian">Vegetarisch</string>
+    <string name="diabetes">Diabetes</string>
+    <string name="no_food_type_filter">Keine spezifische Lebensmittelform</string>
+    <string name="query_template">Listen Sie nur die Namen von %1$s Rezepten auf, die für %4$s an %2$s für %3$s Personen geeignet sind. Antworten Sie nur mit Rezeptnamen, nichts anderes.</string>
+    <string name="recipe_detail_query">Holen Sie das vollständige Rezept für %1$s für %2$d Personen, einschließlich aller Zutaten und Schritt-für-Schritt-Anweisungen.</string>
+    <string name="error">Fehler: %1$s</string>
+    <string name="no_details_available">Keine Details verfügbar</string>
+    <string name="back_to_settings">Zurück zu den Einstellungen</string>
+
+</resources>

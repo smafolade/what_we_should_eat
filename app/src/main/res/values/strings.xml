@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">What should we cook?</string>
+    <string name="next_button">Go to settings</string>
+    <string name="search_button">Search</string>
+    <string name="new_search_button">New Search</string>
+    <string name="settings_title">Make your choices</string>
+    <string name="list_title">Recipe List</string>
+    <string name="recipe_details">Recipe Details</string>
+    <string name="recipe_placeholder">Recipe Placeholder</string>
+    <string name="close_app">Close</string>
+    <string name="ingredienser">Ingredients</string>
+    <string name="search">Search</string>
+
+    <string name="choose_holiday">Choose a holiday</string>
+    <string name="choose_portions">Choose portions</string>
+    <string name="choose_food_type">Choose food type</string>
+    <string name="choose_diet_types">Choose type of food</string>
+    <string name="choose_recipe_count">Choose number of recipes</string>
+    <string name="lactose_free">Lactose free</string>
+    <string name="gluten_free">Gluten free</string>
+    <string name="vegetarian">Vegetarian</string>
+    <string name="diabetes">Diabetes</string>
+
+    <string name="error">Error: %1$s</string>
+    <string name="no_details_available">No details available</string>
+    <string name="back_to_settings">Back to Settings</string>
+
+    <string name="langcode_en" translatable="false">en</string>
+    <string name="langcode_sv" translatable="false">sv</string>
+    <string name="langcode_de" translatable="false">de</string>
+    <string name="langcode_es" translatable="false">es</string>
+    <string name="langcode_hu" translatable="false">hu</string>
+    <string name="langcode_sr" translatable="false">sr</string>
+
+    <string name="lang_eng" translatable="false">English</string>
+    <string name="lang_swe" translatable="false">Swedish</string>
+    <string name="lang_hu" translatable="false">Hungarian</string>
+    <string name="lang_de" translatable="false">German</string>
+    <string name="lang_es" translatable="false">Spanish</string>
+    <string name="lang_sr" translatable="false">Serbo-Croatian</string>
+
+    <string name="no_food_type_filter">No specific food type</string>
+    <string name="query_template">List only the names of %1$s recipes suitable for %4$s on %2$s for %3$s people. Respond only with recipe names, nothing else. </string>
+    <string name="recipe_detail_query">Get the complete recipe for %1$s for %2$d people, including all ingredients and step-by-step instructions.</string>
+    <string name="apikey" translatable="false">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</string>
+    <string name="recipes" translatable="false">recipes</string>
+    <string name="portions" translatable="false">portions</string>
+    <string name="gpt_3_5_turbo" translatable="false">gpt-3.5-turbo</string>
+    <string name="model" translatable="false">model</string>
+    <string name="messages" translatable="false">messages</string>
+    <string name="role" translatable="false">role</string>
+    <string name="system" translatable="false">system</string>
+    <string name="user" translatable="false">user</string>
+    <string name="content" translatable="false">content</string>
+    <string name="you_are_a_helpful_assistant" translatable="false">You are a helpful assistant.</string>
+    <string name="application_json" translatable="false">application/json</string>
+    <string name="https_api_openai_com_v1_chat_completions" translatable="false">https://api.openai.com/v1/chat/completions</string>
+    <string name="authorization" translatable="false">Authorization</string>
+    <string name="bearer" translatable="false">Bearer %1$s</string>
+    <string name="choices" translatable="false">choices</string>
+    <string name="retry_after" translatable="false">Retry-After</string>
+    <string name="unexpected_response_code" translatable="false">Unexpected response code: %1$s</string>
+    <string name="recipedetails" translatable="false">recipe_details</string>
+    <string name="message" translatable="false">message</string>
+
+</resources>

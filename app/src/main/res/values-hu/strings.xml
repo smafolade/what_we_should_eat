@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Mit főzzünk?</string>
+    <string name="next_button">Beállítások</string>
+    <string name="search_button">Keresés</string>
+    <string name="new_search_button">Új keresés</string>
+    <string name="settings_title">Tedd meg a választásaidat</string>
+    <string name="list_title">Recept lista</string>
+    <string name="recipe_details">Recept részletek</string>
+    <string name="recipe_placeholder">Recept helyőrző</string>
+    <string name="close_app">Bezárás</string>
+    <string name="ingredienser">Hozzávalók</string>
+    <string name="search">Keresés</string>
+    <string name="choose_holiday">Válassz ünnepet</string>
+    <string name="choose_portions">Válassz adagot</string>
+    <string name="choose_food_type">Válassz ételtípus</string>
+    <string name="choose_diet_types">Válassz ételtípusokat</string>
+    <string name="choose_recipe_count">Válassz recepteket</string>
+    <string name="lactose_free">Laktózmentes</string>
+    <string name="gluten_free">Gluténmentes</string>
+    <string name="vegetarian">Vegetáriánus</string>
+    <string name="diabetes">Cukorbetegség</string>
+    <string name="no_food_type_filter">Nincs specifikus ételtípus</string>
+    <string name="query_template">Sorolja fel csak %1$s recept nevét, amelyek megfelelnek %4$s számára %2$s alkalmából %3$s személyre. Csak a receptneveket írja, semmi mást.</string>
+    <string name="recipe_detail_query">Szerezd meg a teljes receptet a(z) %1$s ételhez %2$d főre, beleértve az összes hozzávalót és az elkészítési lépéseket.</string>
+    <string name="error">Hiba: %1$s</string>
+    <string name="no_details_available">Nincs elérhető részlet</string>
+    <string name="back_to_settings">Vissza a beállításokhoz</string>
+
+</resources>

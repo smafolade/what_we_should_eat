@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/chef_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/chef_logo_round"
+        android:supportsRtl="true"
+        tools:targetApi="31"
+        android:theme="@style/Theme._23sama06_sandormagyar_projekt">
+
+        <activity android:name=".RecipeDetailActivity"
+            android:theme="@style/Theme.AppCompat.DayNight" />
+
+        <activity android:name=".ListActivity"
+            android:theme="@style/Theme.AppCompat.DayNight" />
+
+        <activity android:name=".SettingsActivity"
+            android:theme="@style/Theme.AppCompat.DayNight" >
+            <!-- To enable the up button (back to previous activity) -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

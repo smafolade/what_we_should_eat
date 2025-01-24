@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Šta da kuvamo?</string>
+    <string name="next_button">Idite na postavke</string>
+    <string name="search_button">Pretraži</string>
+    <string name="new_search_button">Nova pretraga</string>
+    <string name="settings_title">Napravite svoj izbor</string>
+    <string name="list_title">Lista recepata</string>
+    <string name="recipe_details">Detalji recepta</string>
+    <string name="recipe_placeholder">Rezervno mesto za recept</string>
+    <string name="close_app">Zatvori</string>
+    <string name="ingredienser">Sastojci</string>
+    <string name="search">Pretraži</string>
+    <string name="choose_holiday">Izaberite praznik</string>
+    <string name="choose_portions">Izaberite porcije</string>
+    <string name="choose_food_type">Izaberite tip hrane</string>
+    <string name="choose_diet_types">Izaberite tip hrane</string>
+    <string name="choose_recipe_count">Izaberite broj recepata</string>
+    <string name="lactose_free">Bez laktoze</string>
+    <string name="gluten_free">Bez glutena</string>
+    <string name="vegetarian">Vegetarijanski</string>
+    <string name="diabetes">Dijabetes</string>
+    <string name="no_food_type_filter">Nema specifičnog tipa hrane</string>
+    <string name="query_template">Navedite samo nazive %1$s recepata pogodnih za %4$s na %2$s za %3$s osobe. Odgovorite samo imenima recepata, ništa drugo.</string>
+    <string name="recipe_detail_query">Dobijte kompletan recept za %1$s za %2$d osoba, uključujući sve sastojke i korak-po-korak uputstva.</string>
+    <string name="error">Greška: %1$s</string>
+    <string name="no_details_available">Nema dostupnih podataka</string>
+    <string name="back_to_settings">Natrag na postavke</string>
+
+</resources>
